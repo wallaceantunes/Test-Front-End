@@ -33,7 +33,7 @@ Será preciso personalizá-lo de acordo com o padrão visual da Ubiqui.
 
 
 
-*   Neste link você encontra nosso logo: http://ubiqui.com.br/logos/logo_ubiqui_white.svg
+*   Neste link você encontra nosso logo: https://ubiqui.com.br/logos/logo_ubiqui_white.svg
 *   A cor principal é: #203f98
 *   E a cor secundária é: #00a79d
 *   Fique a vontade se precisar criar variações dessas cores (tons mais claros ou tons mais escuros)
