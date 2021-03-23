@@ -33,9 +33,9 @@ Será preciso personalizá-lo de acordo com o padrão visual da Ubiqui.
 
 
 
-*   Neste link você encontra nosso logo:
-*   A cor principal é: 
-*   E a cor secundária é: 
+*   Neste link você encontra nosso logo: ![image](https://user-images.githubusercontent.com/81266167/112222176-234f6e80-8c07-11eb-90d8-a1d8df2fbc7a.png)
+*   A cor principal é: #203f98
+*   E a cor secundária é: #00a79d
 *   Fique a vontade se precisar criar variações dessas cores (tons mais claros ou tons mais escuros)
 
 Não altere os arquivos do pacote deste template (css e js). Crie um documento **ubiqui.css** e implemente-o à sua aplicação. Nele, devem ser inseridas as modificações visuais realizadas, bem como as classes criadas por você, nesta tarefa.
